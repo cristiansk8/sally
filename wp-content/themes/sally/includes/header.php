@@ -25,7 +25,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="<?php echo home_url('/'); ?>"> <img src="<?php echo bloginfo('template_url')?>/img/iconos/sally-logo.png" alt="logo"> </a>
+      <a class="navbar-brand" href="<?php echo home_url('/'); ?>"> <img src="<?php echo bloginfo('template_url')?>/img/iconos/sally-logo.png" alt="logo" width="80px" height="auto"> </a>
     </div>
     <div class="collapse navbar-collapse" id="navbar">
 
