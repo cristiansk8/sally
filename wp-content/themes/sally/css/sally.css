@@ -1,0 +1,16 @@
+.woocommerce ul.products li.product .button {
+    margin-top: 1em;
+    font-family: Gomme;
+    text-align: center;
+    color: white;
+    background-color: #256D51;
+  }
+  .woocommerce a.added_to_cart {
+      padding-top: .5em;
+      display: inline-block;
+      background-color: black;
+      color: white;
+      padding: 5px;
+      margin: 3px;
+      font-family: Gomme;
+  }
