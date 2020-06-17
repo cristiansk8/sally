@@ -10,6 +10,12 @@ function bst_enqueues() {
 	wp_register_style('sally-css', get_template_directory_uri() . '/css/sally.css', false, '3.3.4', null);
 	wp_enqueue_style('sally-css');
 
+	wp_register_style('simpleproducto-css', get_template_directory_uri() . '/css/simpleproductos.css', false, '3.3.4', null);
+	wp_enqueue_style('simpleproducto-css');
+
+	wp_register_style('footer-css', get_template_directory_uri() . '/css/footer.css', false, '3.3.4', null);
+	wp_enqueue_style('footer-css');
+
   	wp_register_style('bst-css', get_template_directory_uri() . '/css/bst.css', false, null);
 	wp_enqueue_style('bst-css');
 
